@@ -1,0 +1,19 @@
+{
+  "name": "trello-transmogrifier",
+  "version": "1.0.0",
+  "description": "Transform trello json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osirisguitar/trello-transmogrifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osirisguitar/trello-transmogrifier/issues"
+  },
+  "homepage": "https://github.com/osirisguitar/trello-transmogrifier#readme"
+}
